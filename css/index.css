@@ -144,3 +144,23 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+/* my styles */
+
+header {
+    display: flex;
+    align-items: baseline;
+    flex-flow: row wrap;
+}
+nav  {  
+    display: flex;
+    width: 80%;
+    justify-content: space-evenly;
+    align-items: stretch;
+   } 
+   
+   header nav a {
+    color: black;
+    text-decoration: none;
+  }
+  
