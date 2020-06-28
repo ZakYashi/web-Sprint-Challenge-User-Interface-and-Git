@@ -164,3 +164,15 @@ nav  {
     text-decoration: none;
   }
   
+  header #jumbo {
+      padding: 2%;
+      object-fit: contain;
+  }
+
+  /* boxes */
+  .middle-content .boxes .box:nth-child(1)  {
+      background-color: teal;
+  }
+  .middle-content .boxes .box:nth-child(2)  {
+    background-color: gold;
+}
